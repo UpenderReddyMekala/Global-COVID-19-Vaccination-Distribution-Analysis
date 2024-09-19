@@ -44,6 +44,3 @@ This analysis highlights significant disparities in vaccine distribution between
 - **Power BI**: For data visualization and reporting.
 - **Excel**: For data cleaning and preparation.
 
-## Project Files
-- **Power BI Report**: [Download the Power BI file](./Project1_powerbi.pbix)
-- **Data Source**: [Skill-lync dataset](#) *(Link to dataset if applicable)*
